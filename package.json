@@ -30,8 +30,8 @@
     "typescript": "^5.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
     "@types/node-fetch": "^2.6.2",
     "@types/sharp": "^0.32.0",
     "@typescript-eslint/eslint-plugin": "^5.57.0",
