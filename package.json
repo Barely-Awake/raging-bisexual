@@ -21,7 +21,7 @@
     "@saber2pr/types-github-api": "^0.0.9",
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
     "@types/ms": "^0.7.31",
-    "canvas": "^2.11.0",
+    "canvas": "^3.0.0",
     "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
     "mongoose": "^6.10.2",
